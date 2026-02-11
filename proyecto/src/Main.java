@@ -17,7 +17,7 @@ public class Main {
         double totalDamage = totalD(maxPer, healthPlus);
         String msg = generarMensaje(enemyHealth, maxPer, totalDamage);
         mostrarMensaje(msg);
-        
+        System.out.print("a");
 
 
 
